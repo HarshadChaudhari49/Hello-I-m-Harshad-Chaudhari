@@ -34,9 +34,9 @@ I’m enthusiastic about working in innovative environments where I can grow as 
 
 ## 🚀 Projects
 
-- **🌾 Agri-Marketplace for Digital Trade & Rentals**  
-- **🚑 5G-Enabled Ambulance Traffic Management System**  
-- **🏠 Smart Home Automation System**  
+ **🌾 Agri-Marketplace for Digital Trade & Rentals**  
+ **🚑 5G-Enabled Ambulance Traffic Management System**  
+ **🏠 Smart Home Automation System**  
 
 ## 🧰 Technical Skills
 
@@ -60,6 +60,6 @@ I’m enthusiastic about working in innovative environments where I can grow as 
 
 ## 📫 Let’s Connect!
 
-📧 Email: [engg.harshad49@gmail.com](mailto:engg.harshad49@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/-harshad-chaudhari](https://www.linkedin.com/in/-harshad-chaudhari)  
-💻 GitHub: [github.com/HarshadChaudhari49](https://github.com/HarshadChaudhari49)
+- Email: [engg.harshad49@gmail.com](mailto:engg.harshad49@gmail.com)  
+- LinkedIn: [linkedin.com/in/-harshad-chaudhari](https://www.linkedin.com/in/-harshad-chaudhari)  
+- GitHub: [github.com/HarshadChaudhari49](https://github.com/HarshadChaudhari49)
